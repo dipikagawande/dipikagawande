@@ -1,16 +1,13 @@
 
 Hi, I'm Dipika ✨
 
-> 🔭 I’m a Statistics & Data Science MS student at Yale
-> 💖 I love data storytelling and beautiful visualizations in R and Python
+- 🔭 I’m a Statistics & Data Science MS student at Yale
+- 💖 I love data storytelling and beautiful visualizations in R and Python
 
 I’m currently learning about:
-
-💡 probability theory, Markov Chain Monte Carlo, and being Bayesian
-
-🌱 sustainable supply chains and the future of fashion
-
-🍅 how to make veggies as delicious as possible
+- 💡 probability theory, Markov Chain Monte Carlo, and being Bayesian
+- 🌱 sustainable supply chains and the future of fashion
+- 🍅 how to make veggies as delicious as possible
 
 I’m currently reading:
 - 📚 The Marriage of Cadmus and Harmony (Calasso)
