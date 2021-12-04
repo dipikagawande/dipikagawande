@@ -15,9 +15,9 @@ I’m currently reading:
 Ask me about:
 - 🔬 Impact evaluations and randomized controlled trials (RCTs)
 - 📖 Nietzschean existentialism
-👗 My never-ending search for vintage Gaultier
+- 👗 My never-ending search for vintage Gaultier
  
 Reach me at:
-📫 My email anytime
-🤝 www.linkedin.com/in/dipikagawande/
-📷 Instagram: @dip.dyed
+- 📫 My email anytime
+- 🤝 www.linkedin.com/in/dipikagawande/
+- 📷 Instagram: @dip.dyed
