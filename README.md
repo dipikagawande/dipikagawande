@@ -1,7 +1,8 @@
 
-Hi, I'm Dipika! ✨
-- 🔭 I’m a Statistics & Data Science MS student at Yale
-- 💖 I love data storytelling and beautiful visualizations in R and Python
+Hi, I'm Dipika ✨
+
+🔭 I’m a Statistics & Data Science MS student at Yale
+💖 I love data storytelling and beautiful visualizations in R and Python
 
 I’m currently learning about:
 - 💡 probability theory, Markov Chain Monte Carlo, and being Bayesian
