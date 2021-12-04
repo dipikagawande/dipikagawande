@@ -8,7 +8,7 @@ I’m currently learning about:
 🌱 sustainable supply chains and the future of fashion  
 🍅 how to make veggies as delicious as possible  
 
-I’m currently reading:
+I’m currently reading:  
 📚 The Marriage of Cadmus and Harmony (Roberto Calasso)  
 👠 The Beautiful Fall: Lagerfeld & Saint Laurent in 1970s Paris (Alicia Drake)  
 
