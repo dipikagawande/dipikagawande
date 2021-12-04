@@ -12,12 +12,12 @@ I’m currently reading:
 📚 The Marriage of Cadmus and Harmony (Roberto Calasso)  
 👠 The Beautiful Fall: Lagerfeld & Saint Laurent in 1970s Paris (Alicia Drake)  
 
-Ask me about:
+Ask me about:  
 🔬 Impact evaluations and randomized controlled trials (RCTs)  
 📖 Nietzschean existentialism  
 👗 My never-ending search for vintage Gaultier  
  
-Reach me at:
+Reach me at:  
 📫 My email anytime  
 🤝 www.linkedin.com/in/dipikagawande/  
 📷 Instagram: @dip.dyed  
