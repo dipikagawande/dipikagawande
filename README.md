@@ -10,8 +10,8 @@ I’m currently learning about:
 - 🍅 how to make veggies as delicious as possible
 
 I’m currently reading:
-- 📚 The Marriage of Cadmus and Harmony (Calasso)
-- 👠 The Beautiful Fall: Lagerfeld & Saint Laurent in 1970s Paris (Drake)
+- 📚 The Marriage of Cadmus and Harmony (Roberto Calasso)
+- 👠 The Beautiful Fall: Lagerfeld & Saint Laurent in 1970s Paris (Alicia Drake)
 
 Ask me about:
 - 🔬 Impact evaluations and randomized controlled trials (RCTs)
