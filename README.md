@@ -16,7 +16,7 @@ I’m currently reading:
 💂 The First Circle (Alexandr Solzhenitsyn)   
 
 Ask me about:  
-🔬 Impact evaluations and RCTs  
+👩‍🔬 Impact evaluations and RCTs  
 📖 Field research  
 👗 My always search for vintage fashion memorabilia  
  
