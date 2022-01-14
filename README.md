@@ -16,9 +16,9 @@ I’m currently reading:
 💂 The First Circle (Alexandr Solzhenitsyn)   
 
 Ask me about:  
-🔬 Impact evaluations and randomized controlled trials (RCTs)  
-📖   
-👗 My never-ending search for vintage Gaultier  
+🔬 Impact evaluations and RCTs  
+📖 Field research
+👗 My always search for vintage fashion memorabilia  
  
 Reach me at:  
 📫 My email anytime  
