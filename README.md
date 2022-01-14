@@ -13,11 +13,11 @@ I’m currently learning about:
 
 I’m currently reading:  
 📚 The Marriage of Cadmus and Harmony (Roberto Calasso)  
-👠 The Beautiful Fall: Lagerfeld & Saint Laurent in 1970s Paris (Alicia Drake)  
+💂 The First Circle (Alexandr Solzhenitsyn)   
 
 Ask me about:  
 🔬 Impact evaluations and randomized controlled trials (RCTs)  
-📖 Nietzschean existentialism  
+📖   
 👗 My never-ending search for vintage Gaultier  
  
 Reach me at:  
