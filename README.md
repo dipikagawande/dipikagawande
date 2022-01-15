@@ -5,12 +5,12 @@ Hi, I'm Dipika ✨
 🤓 with Molecular Biology and Philosophy degrees from a previous slice of life   
 💖 who loves data storytelling and beautiful visualizations in R and Python    
 
-I’m currently learning about:  
+I’m learning about:  
 💡 probability theory, Markov Chain Monte Carlo, and being Bayesian  
 🌱 sustainable supply chains and the future of fashion  
 🍅 heavenly ways to cook veggies  
 
-I’m currently reading:  
+I’m reading:  
 📚 The Marriage of Cadmus and Harmony (Roberto Calasso)  
 💂 The First Circle (Alexandr Solzhenitsyn)   
 
