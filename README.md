@@ -8,7 +8,7 @@ Hi, I'm Dipika ✨
 I’m currently learning about:  
 💡 probability theory, Markov Chain Monte Carlo, and being Bayesian  
 🌱 sustainable supply chains and the future of fashion  
-🍅 how to make veggies as delicious as possible  
+🍅 heavenly ways to cook veggies  
 
 I’m currently reading:  
 📚 The Marriage of Cadmus and Harmony (Roberto Calasso)  
