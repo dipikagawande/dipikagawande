@@ -17,7 +17,7 @@ I’m currently reading:
 Ask me about:  
 👩‍🔬 Impact evaluations and RCTs  
 📖 Field research  
-👗 My always search for vintage Dior
+👗 The business of fashion
  
 Reach me at:  
 📫 My email anytime  
