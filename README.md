@@ -16,7 +16,7 @@ I’m reading:
 
 Ask me about:  
 👩‍🔬 Impact evaluations and RCTs  
-📖 Field research and experimental design 
+📖 Field research and experimental design  
 👗 Fashion new and old
  
 Reach me at:  
