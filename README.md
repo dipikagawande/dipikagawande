@@ -6,13 +6,13 @@ Hi, I'm Dipika ✨
 💖 who loves data storytelling and beautiful dataviz in R and Python    
 
 I’m learning about:  
-💡 machine learning, graphic design and being Bayesian  
+💡 gradient descent, graphic design and being Bayesian  
 🌱 sustainable supply chains and the future of fashion  
 🍅 sublime ways to cook veggies  
 
 I’m reading:  
-📚 The Marriage of Cadmus and Harmony (Roberto Calasso)  
-💂 The First Circle (Alexandr Solzhenitsyn)   
+📚 Less is Lost (Andrew Sean Greer)  
+📐 Thinking with Type (Ellen Lupton)   
 
 Ask me about:  
 👩‍🔬 Impact evaluations and RCTs  
