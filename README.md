@@ -7,7 +7,7 @@ Hi, I'm Dipika ✨
 
 I’m learning about:  
 💡 gradient descent, graphic design and Git  
-🌱 sustainable supply chains and the future of fashion 
+🌱 sustainable supply chains and the future of fashion     
 🍳 cooking a perfect egg !
 
 I’m reading:  
