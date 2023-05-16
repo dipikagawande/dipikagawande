@@ -6,9 +6,9 @@ Hi, I'm Dipika ✨
 💖 who loves data storytelling and beautiful dataviz in R and Python    
 
 I’m learning about:  
-💡 gradient descent, graphic design and good code  
-🌱 sustainable supply chains and the future of fashion  
-🍅 amazing ways to cook tomatoes
+💡 gradient descent, graphic design and Git  
+🌱 sustainable supply chains and the future of fashion
+🍳 cooking a perfect egg !
 
 I’m reading:  
 📚 Less is Lost (Andrew Sean Greer)  
