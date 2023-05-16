@@ -1,7 +1,7 @@
 
 Hi, I'm Dipika ✨ 
 
-> 🔭 I’m a Statistics & Data Science MS student at Yale  
+> 🔭 I’m a Statistics & Data Science MS grad from Yale  
 🤓 with Molecular Biology and Philosophy degrees from a previous slice of life   
 💖 who loves data storytelling and beautiful dataviz in R and Python    
 
