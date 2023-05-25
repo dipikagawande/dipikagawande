@@ -2,7 +2,7 @@
 Hi, I'm Dipika ✨ 
 
 > 🔭 I’m a Statistics & Data Science MS grad from Yale  
-🤓 with Molecular Biology and Philosophy degrees
+🤓 with Molecular Biology and Philosophy degrees   
 💖 who loves data storytelling and beautiful dataviz in Python and R   
 
 I’m learning about:  
